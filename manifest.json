@@ -3,7 +3,10 @@
   "short_name": "ICA FULOKOJA",
   "theme_color": "#3f4e85",
   "background_color": "#3f4e85",
-  "display": "browser",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "ICA-FULOKOJA  is a platform for growth and development of future world-class developers, designers, CTOs, founders and CEOs, to learn from industry subject matter experts, share knowledge, network, build the community and gain from the many great opportunities attached to the program.",
+  "lang": "en-US",
   "Scope": "/",
   "start_url": "/index.html?launcher=true",
   "icons": [

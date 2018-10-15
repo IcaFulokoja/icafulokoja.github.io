@@ -11,14 +11,9 @@
   "theme_color": "#2e3141",
   "icons": [
     {
-      "src": "https://icafulokoja.github.io/images/meta-img.jpg",
+      "src": "images/logo.png",
       "sizes": "202X139",
-      "type": "image/jpg"
-    },
-    {
-      "src": "https://icafulokoja.github.io/images/ingressive.jpg",
-      "sizes": "400x400",
-      "type": "image/jpg"
+      "type": "image/png"
     }
   ]
 }

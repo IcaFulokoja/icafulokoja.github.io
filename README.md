@@ -33,7 +33,7 @@ This is the Official website for the Ingressive Campus Community, Federal Univer
 - Access to free tools and softwares
 - Access to cheap internet and better power supply
 - Learning resources for any technical skill
-- This activities would help the community members to improve on their skills, learn more, collaborate, experirnce the real world programming and grow faster therby bringing us closer to our mission.
+- This activities would help the community members to improve on their skills, learn more, collaborate, experirnce the real world programming and grow faster therby bringing us closer to our mission. <br>
 
 
 

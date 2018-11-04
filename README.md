@@ -16,11 +16,10 @@ This is the Official website for the Ingressive Campus Community, Federal Univer
 
 # About Us
 <p>
-  ICA IS A PLATFORM FOR GROWTH AND DEVELOPMENT OF FUTURE WORLD-CLASS DEVELOPERS, DESIGNERS, CTOS, FOUNDERS AND CEOS, TO LEARN FROM INDUSTRY SUBJECT MATTER EXPERTS, SHARE KNOWLEDGE, NETWORK, BUILD THE COMMUNITY AND GAIN FROM THE MANY GREAT OPPORTUNITIES ATTACHED TO THE PROGRAM.
-OUR CAMPUS AMBASSADORS ARE PASSIONATE ABOUT BUILDING AN ACTIVE COMMUNITY OF TECH ENTHUSIASTS - INCLUDING DESIGNERS AND DEVELOPERS - AND ARE COMMITTED TO CREATING A POSITIVE EXPERIENCE FOR MEMBERS OF THEIR COMMUNITY.
+  ICAFulokoja is a platform for growth and development of future world-class developers, designers, CTOs, founders and CEOs, to learn from industry subject matter experts, share knowledge, network, build the community and gain from the many great opportunities attached to the program. <br> We are an active community of tech enthusiasts - including designers and developers committed to building brilliant innovative products. 
   </p>
   
-  ## Our Mission
+  # Our Mission
    `'Our aim is to create an active environment for tech enthusiasts to learn, share knowledge, network, build their technical skills and equip everyone, regardless of their major, to become world class developers.'`
    
    ## Activities

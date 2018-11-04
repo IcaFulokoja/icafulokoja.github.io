@@ -7,12 +7,35 @@
 
 This is the Official website for the Ingressive Campus Community, Federal University Lokoja, Kogi State, NG. 
 :fire::rocket: <br>
-[View site](https://icafulokoja.github.io)
+[View site](https://icafulokoja.github.io) <br>
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IcaFulokoja/icafulokoja.github.io/master/images/ICA+.png "alt="ICA Logo">
 </p>
+
+# About Us
+<p>
+  ICA IS A PLATFORM FOR GROWTH AND DEVELOPMENT OF FUTURE WORLD-CLASS DEVELOPERS, DESIGNERS, CTOS, FOUNDERS AND CEOS, TO LEARN FROM INDUSTRY SUBJECT MATTER EXPERTS, SHARE KNOWLEDGE, NETWORK, BUILD THE COMMUNITY AND GAIN FROM THE MANY GREAT OPPORTUNITIES ATTACHED TO THE PROGRAM.
+OUR CAMPUS AMBASSADORS ARE PASSIONATE ABOUT BUILDING AN ACTIVE COMMUNITY OF TECH ENTHUSIASTS - INCLUDING DESIGNERS AND DEVELOPERS - AND ARE COMMITTED TO CREATING A POSITIVE EXPERIENCE FOR MEMBERS OF THEIR COMMUNITY.
+  </p>
+  
+  ## Our Mission
+   `'Our aim is to create an active environment for tech enthusiasts to learn, share knowledge, network, build their technical skills and equip everyone, regardless of their major, to become world class developers.'`
+   
+   ## Activities
+
+- Meetups
+- Hackathons
+- Code challenges
+- Group 100DaysOfCode challenge
+- Open Source Projects
+- Collaboration
+- Access to free tools and softwares
+- Access to cheap internet and better power supply
+- Learning resources for any technical skill
+- This activities would help the community members to improve on their skills, learn more, collaborate, experirnce the real world programming and grow faster therby bringing us closer to our mission.
+
 
 
 # Contributor's Guide

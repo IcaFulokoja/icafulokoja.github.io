@@ -11,7 +11,7 @@ This is the Official website for the Ingressive Campus Community, Federal Univer
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IcaFulokoja/icafulokoja.github.io/master/images/ICA+.png "alt="ICA Logo">
+  <img src="https://raw.githubusercontent.com/IcaFulokoja/icafulokoja.github.io/master/images/ingressive campus fulokoja.jpg"alt="ICA Logo">
 </p>
 
 # About Us

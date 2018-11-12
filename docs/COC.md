@@ -51,7 +51,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 ## 6. Weapons Policy
 
-No weapons will be allowed at Icafulokoja.GitHub.Io events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+No weapons will be allowed at any IcaFulokoja events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all local, state and national laws on this matter.
 
 ## 7. Consequences of Unacceptable Behavior
 
@@ -85,5 +85,5 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the campus lead on `mailtobolaji@gmail.com`, to any lead  in the community slack channels. As an inclusive community, we take our community's health seriously and want to ensure everyone has a good experience, so please contact us at `icafulokoja@gmail.com` if there is an issue so we can help address it.
 
-##
+
 `This document will/may be changed or updated at any time to ensure we build an inclusive community and everyone gets the best out of participating in our activities`

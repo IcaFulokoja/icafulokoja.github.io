@@ -15,7 +15,7 @@ We invite all those who participate in IcaFulokoja to help us create safe and po
 
 ## 3. Becoming a member of ICAFulokoja
  
-To become an official member of our community, you need to fill the SIGN UP form [https://goo.gl/forms/4GT4qANBdxPukDD43](here) <br>
+To become an official member of our community, you need to fill the [SIGN UP form](https://goo.gl/forms/4GT4qANBdxPukDD43) <br>
 Members who do not follow this process are urged to do so, this is to ensure proper documentation of all our members and to prepare the community for more improvements and features.
 
 ## 4. Expected Behavior
@@ -89,5 +89,5 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 `This document will/may be changed or updated at any time to ensure we build an inclusive community and everyone gets the best out of participating in our activities`
 
 `Any member who has suggestions for how to improve this Code of Conduct can suggest them via the pull request flow!`
-Make your changes [https://github.com/IcaFulokoja/icafulokoja.github.io/docs/COC.md](here) <br>
-Raise an issue to suggest an improvement [https://github.com/IcaFulokoja/icafulokoja.github.io/issues/new](here)
+Make your changes [here](https://github.com/IcaFulokoja/icafulokoja.github.io/docs/COC.md) <br>
+Raise an issue to suggest an improvement [here](https://github.com/IcaFulokoja/icafulokoja.github.io/issues/new)

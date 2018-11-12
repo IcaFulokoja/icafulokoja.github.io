@@ -15,7 +15,7 @@ We invite all those who participate in IcaFulokoja to help us create safe and po
 
 ## Becoming a member of ICAFulokoja
  
-To become an official member of our community, you need to fill the SIGN UP form (https://goo.gl/forms/4GT4qANBdxPukDD43)[here]
+To become an official member of our community, you need to fill the SIGN UP form [https://goo.gl/forms/4GT4qANBdxPukDD43](here)
 Members who do not follow this process are urged to do so, this is to ensure proper documentation of all our members and to prepare the community for more improvements and features.
 
 ## 4. Expected Behavior

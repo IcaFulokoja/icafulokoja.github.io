@@ -13,13 +13,10 @@ We invite all those who participate in IcaFulokoja to help us create safe and po
 'Our aim is to create an active environment for tech enthusiasts to learn, share knowledge, network, build their technical skills and equip everyone, regardless of their major, to become world class developers.'
 
 
-## 3. Open [Source/Culture/Tech] Citizenship
-
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
-
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
-
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+## Becoming a member of ICAFulokoja
+ 
+To become an official member of our community, you need to fill the SIGN UP form (https://goo.gl/forms/4GT4qANBdxPukDD43)[here]
+Members who do not follow this process are urged to do so, this is to ensure proper documentation of all our members and to prepare the community for more improvements and features.
 
 ## 4. Expected Behavior
 
@@ -82,4 +79,4 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 11. Contact info
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the campus lead on mailtobolaji@gmail.com, to any lead  in the community slack channels. As an inclusive community, we take our community's health seriously and want to ensure everyone has a good experience, so please contact us at icafulokoja@gmail.com if there is an issue so we can help address it.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the campus lead on `mailtobolaji@gmail.com`, to any lead  in the community slack channels. As an inclusive community, we take our community's health seriously and want to ensure everyone has a good experience, so please contact us at `icafulokoja@gmail.com` if there is an issue so we can help address it.

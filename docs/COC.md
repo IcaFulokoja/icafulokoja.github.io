@@ -13,9 +13,9 @@ We invite all those who participate in IcaFulokoja to help us create safe and po
 'Our aim is to create an active environment for tech enthusiasts to learn, share knowledge, network, build their technical skills and equip everyone, regardless of their major, to become world class developers.'
 
 
-## Becoming a member of ICAFulokoja
+## 3. Becoming a member of ICAFulokoja
  
-To become an official member of our community, you need to fill the SIGN UP form [https://goo.gl/forms/4GT4qANBdxPukDD43](here)
+To become an official member of our community, you need to fill the SIGN UP form [https://goo.gl/forms/4GT4qANBdxPukDD43](here) <br>
 Members who do not follow this process are urged to do so, this is to ensure proper documentation of all our members and to prepare the community for more improvements and features.
 
 ## 4. Expected Behavior
@@ -24,10 +24,13 @@ The following behaviors are expected and requested of all community members:
 
  * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
  * Exercise consideration and respect in your speech and actions.
- * Attempt collaboration before conflict.
  * Refrain from demeaning, discriminatory, or harassing behavior and speech.
  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
- * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+ * Most of our activities involves a Registration process, ensure you RSVP for our events before attending, failure to do so will attract denial of entrance to event venue as we would check participants before entrance.
+ *  nice. Everyone in the ICAFulokoja community should feel welcome, regardless of their background. Please be courteous, respectful and polite to fellow community members and events participants.
+ * No offensive comments related to gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, religion; no sexual images in public spaces, real or implied violence, intimidation, oppression, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, or unwelcome sexual attention will not be tolerated.
+ * Communicate effectively. We don't all speak the same language at the same skill level. Clear communication can help to avoid misunderstandings, as can remembering that our interpretations of words can be different depending on our backgrounds. Having context is important. It's better to ask for clarification than to make assumptions. Disagreements, social and technical, are normal, but we expect participants in our activities to resolve disagreements constructively — so please avoid flamewars, trolling, personal attacks, and repetitive arguments.
+ * Ask for help when unsure. Nobody is expected to be perfect in this community. Asking questions early avoids many problems later, so questions are encouraged, you can ask the campus lead or any lead.
 
 ## 5. Unacceptable Behavior
 

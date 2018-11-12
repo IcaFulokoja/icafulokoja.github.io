@@ -83,11 +83,12 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 11. Contact info
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the campus lead on `mailtobolaji@gmail.com`, to any lead  in the community slack channels. As an inclusive community, we take our community's health seriously and want to ensure everyone has a good experience, so please contact us at `icafulokoja@gmail.com` if there is an issue so we can help address it.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the campus lead on `mailtobolaji@gmail.com` or to any lead  in the community slack channels. <br>
+As an inclusive community, we take our community's health seriously and want to ensure everyone has a good experience, so please contact us at `icafulokoja@gmail.com` if there is an issue so we can help address it.
 
 
 `This document will/may be changed or updated at any time to ensure we build an inclusive community and everyone gets the best out of participating in our activities`
 
 `Any member who has suggestions for how to improve this Code of Conduct can suggest them via the pull request flow!` <br>
-Make your changes [here](https://github.com/IcaFulokoja/icafulokoja.github.io/docs/COC.md) <br>
+Make your changes [here](https://github.com/IcaFulokoja/icafulokoja.github.io/blob/master/docs/COC.md) <br>
 Raise an issue to suggest an improvement [here](https://github.com/IcaFulokoja/icafulokoja.github.io/issues/new)

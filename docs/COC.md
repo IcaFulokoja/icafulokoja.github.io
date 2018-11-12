@@ -77,10 +77,13 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 ## 10. Scope
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community matters.
+We expect all community participants (members, contributors, OpenSourcerer, sponsors and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community matters.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
 ## 11. Contact info
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the campus lead on `mailtobolaji@gmail.com`, to any lead  in the community slack channels. As an inclusive community, we take our community's health seriously and want to ensure everyone has a good experience, so please contact us at `icafulokoja@gmail.com` if there is an issue so we can help address it.
+
+##
+`This document will/may be changed or updated at any time to ensure we build an inclusive community and everyone gets the best out of participating in our activities`

@@ -88,6 +88,6 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 `This document will/may be changed or updated at any time to ensure we build an inclusive community and everyone gets the best out of participating in our activities`
 
-`Any member who has suggestions for how to improve this Code of Conduct can suggest them via the pull request flow!
-Make your changes (here)[https://github.com/IcaFulokoja/icafulokoja.github.io/docs/COC.md]` <br>
-Raise an issue to suggest an improvement (here)[]
+`Any member who has suggestions for how to improve this Code of Conduct can suggest them via the pull request flow!`
+Make your changes (here)[https://github.com/IcaFulokoja/icafulokoja.github.io/docs/COC.md] <br>
+Raise an issue to suggest an improvement (here)[https://github.com/IcaFulokoja/icafulokoja.github.io/issues/new]

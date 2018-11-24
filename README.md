@@ -4,6 +4,8 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 ![](https://img.shields.io/badge/Tech-Community-brightred.svg)
+![GitHub issue/pull request state](https://img.shields.io/github/issues/detail/s/badges/shields/979.svg)
+
 
 This is the Official website for the Ingressive Campus Community, Federal University Lokoja, Kogi State, NG.  <br>
 [View site](https://icafulokoja.github.io) <br>

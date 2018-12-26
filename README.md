@@ -26,8 +26,8 @@ This is the Official website for the Ingressive Campus Community, Federal Univer
 
 - Meetups
 - Hackathons
+- Mentorships
 - Code challenges
-- Group 100DaysOfCode challenge
 - Open Source Projects
 - Collaboration
 - Access to free tools and softwares

@@ -39,9 +39,6 @@ This is the Official website for the Ingressive Campus Community, Federal Univer
 
 # Contributor's Guide
 
-HOW TO CONTRIBUTE TO OPEN SOURCE accepts PR's (pull requests) from **newbies**
-only, this is to help **newbies** get familiar with contribution processes.
-
 Issues can be submitted by anyone, seasoned developers or newbies.
 
 ### Getting Started
@@ -50,10 +47,9 @@ Issues can be submitted by anyone, seasoned developers or newbies.
     [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
     before moving to the next step.
 
-2.  Fork the project on Github,
+2.  Fork this repository,
     [Help Guide to Fork a repository](https://help.github.com/articles/fork-a-repo/).
 
-    ![Illustration for how to fork a repository](https://hisham.hm/img/posts/github-fork.png)
 
 3.  Clone the project.
 

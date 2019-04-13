@@ -10,7 +10,7 @@ We invite all those who participate in IcaFulokoja to help us create safe and po
 
 ## 2. Our Mission
 
-'Our aim is to create an active environment for tech enthusiasts to learn, share knowledge, network, build their technical skills and equip everyone, regardless of their major, to become world class developers.'
+"Our aim is to create an active environment for tech enthusiasts to learn, share knowledge, network, build their technical skills and equip everyone, regardless of their major, to become world class developers."
 
 
 ## 3. Becoming a member of ICAFulokoja
@@ -85,7 +85,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 11. Contact info
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the campus lead on `mailtobolaji@gmail.com` or to any lead  in the community slack channels. <br>
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the campus lead on `hi@bolajiayodeji.com` or to any lead  in the community slack channels. <br>
 As an inclusive community, we take our community's health seriously and want to ensure everyone has a good experience, so please contact us at `icafulokoja@gmail.com` if there is an issue so we can help address it.
 
 

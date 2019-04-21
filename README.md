@@ -5,6 +5,7 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 ![](https://img.shields.io/badge/Tech-Community-brightred.svg)
 
+
 This is the Official website for the Ingressive Campus Community, Federal University Lokoja, Kogi State, NG.  <br>
 [View site](https://icafulokoja.github.io) <br>
 
@@ -25,8 +26,8 @@ This is the Official website for the Ingressive Campus Community, Federal Univer
 
 - Meetups
 - Hackathons
+- Mentorships
 - Code challenges
-- Group 100DaysOfCode challenge
 - Open Source Projects
 - Collaboration
 - Access to free tools and softwares
@@ -38,9 +39,6 @@ This is the Official website for the Ingressive Campus Community, Federal Univer
 
 # Contributor's Guide
 
-HOW TO CONTRIBUTE TO OPEN SOURCE accepts PR's (pull requests) from **newbies**
-only, this is to help **newbies** get familiar with contribution processes.
-
 Issues can be submitted by anyone, seasoned developers or newbies.
 
 ### Getting Started
@@ -49,14 +47,15 @@ Issues can be submitted by anyone, seasoned developers or newbies.
     [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
     before moving to the next step.
 
-2.  Fork the project on Github,
+2.  Fork this repository,
     [Help Guide to Fork a repository](https://help.github.com/articles/fork-a-repo/).
 
-    ![Illustration for how to fork a repository](https://hisham.hm/img/posts/github-fork.png)
 
 3.  Clone the project.
 
-    ![Illustration for how to clone the project](https://services.github.com/on-demand/images/gifs/github-desktop/clone-repository-locally.gif)
+    ```bash
+    git clone https://github.com/your_username/icafulokoja.github.io.git
+    ```
 
 4.  Create a branch specific to the issue you are working on.
 

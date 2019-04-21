@@ -10,12 +10,12 @@ We invite all those who participate in IcaFulokoja to help us create safe and po
 
 ## 2. Our Mission
 
-'Our aim is to create an active environment for tech enthusiasts to learn, share knowledge, network, build their technical skills and equip everyone, regardless of their major, to become world class developers.'
+"Our aim is to create an active environment for tech enthusiasts to learn, share knowledge, network, build their technical skills and equip everyone, regardless of their major, to become world class developers."
 
 
 ## 3. Becoming a member of ICAFulokoja
  
-To become an official member of our community, you need to fill the SIGN UP form [https://goo.gl/forms/4GT4qANBdxPukDD43](here) <br>
+To become an official member of our community, you need to fill the [SIGN UP form](https://goo.gl/forms/4GT4qANBdxPukDD43) <br>
 Members who do not follow this process are urged to do so, this is to ensure proper documentation of all our members and to prepare the community for more improvements and features.
 
 ## 4. Expected Behavior
@@ -29,6 +29,8 @@ The following behaviors are expected and requested of all community members:
  * Most of our activities involves a Registration process, ensure you RSVP for our events before attending, failure to do so will attract denial of entrance to event venue as we would check participants before entrance.
  *  Be nice. Everyone in the ICAFulokoja community should feel welcome, regardless of their background. Please be courteous, respectful and polite to fellow community members and events participants.
  * No offensive comments related to gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, religion; no sexual images in public spaces, real or implied violence, intimidation, oppression, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, or unwelcome sexual attention will not be tolerated.
+ * Members of the audience in any of our events should NOT respond to inexperienced questions or answers in a manner that would conote mockery.
+ * Speakers/sponsors in any of our events should respond politely to unprofessional questions asked by any attendee regardless of their level of experience. 
  * Communicate effectively. We don't all speak the same language at the same skill level. Clear communication can help to avoid misunderstandings, as can remembering that our interpretations of words can be different depending on our backgrounds. Having context is important. It's better to ask for clarification than to make assumptions. Disagreements, social and technical, are normal, but we expect participants in our activities to resolve disagreements constructively — so please avoid flamewars, trolling, personal attacks, and repetitive arguments.
  * Ask for help when unsure. Nobody is expected to be perfect in this community. Asking questions early avoids many problems later, so questions are encouraged, you can ask the campus lead or any lead.
 
@@ -83,7 +85,12 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 11. Contact info
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the campus lead on `mailtobolaji@gmail.com`, to any lead  in the community slack channels. As an inclusive community, we take our community's health seriously and want to ensure everyone has a good experience, so please contact us at `icafulokoja@gmail.com` if there is an issue so we can help address it.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the campus lead on `hi@bolajiayodeji.com` or to any lead  in the community slack channels. <br>
+As an inclusive community, we take our community's health seriously and want to ensure everyone has a good experience, so please contact us at `icafulokoja@gmail.com` if there is an issue so we can help address it.
 
 
 `This document will/may be changed or updated at any time to ensure we build an inclusive community and everyone gets the best out of participating in our activities`
+
+`Any member who has suggestions for how to improve this Code of Conduct can suggest them via the pull request flow!` <br>
+Make your changes [here](https://github.com/IcaFulokoja/icafulokoja.github.io/blob/master/docs/COC.md) <br>
+Raise an issue to suggest an improvement [here](https://github.com/IcaFulokoja/icafulokoja.github.io/issues/new)

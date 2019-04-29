@@ -1,11 +1,10 @@
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/For-Kogites-brightgreen.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-![](https://img.shields.io/badge/Tech-Community-brightred.svg)
 
 
-This is the Official website for the Ingressive Campus Community, Federal University Lokoja, Kogi State, NG.  <br>
+Official website for the Ingressive Campus Community, Federal University Lokoja, Kogi State, NG.  <br>
 [View site](https://icafulokoja.github.io) <br>
 
 

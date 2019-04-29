@@ -9,7 +9,7 @@ Official website for the Ingressive Campus Community, Federal University Lokoja,
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IcaFulokoja/icafulokoja.github.io/master/images/ingressive campus fulokoja.jpg"alt="ICA Logo">
+  <img src="https://raw.githubusercontent.com/IcaFulokoja/icafulokoja.github.io/master/images/logo.png"alt="ICA Logo">
 </p>
 
 # About Us
